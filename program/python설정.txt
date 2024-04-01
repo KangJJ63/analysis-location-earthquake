@@ -1,0 +1,20 @@
+﻿[Python 환경설정]
+py3_env
+
+
+[pip 19.3.1설치]
+python –m pip install --upgrade pip==19.3.1
+
+
+[Fiona 1.8.6설치]
+(32bit)
+python –m pip install C:\earthquake\package\32bit\Fiona-1.8.6-cp37-cp37m-win32.whl
+(64bit)
+python –m pip install C:\earthquake\package\64bit\Fiona-1.8.6-cp37-cp37m-win_amd64.whl
+
+
+[필요 패키지 설치]
+(32bit)
+python –m pip install –r C:\earthquake\package\32bit\requirements.txt
+(64bit)) 
+python –m pip install -r C:\earthquake\package\64bit\requirements.txt

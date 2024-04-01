@@ -1,0 +1,3 @@
+COMMAND: v.in.ogr input="C:\earthquake\result\Earthquake-EMERGENCY_ASSEMBLY_AREA\refuge.shp" layer="refuge" output="refuge" min_area=0.0001 type="" snap=-1
+GISDBASE: C:\earthquake\grass
+LOCATION: newLocation MAPSET: PERMANENT USER: hanyg DATE: Mon Jan 04 14:29:21 2021

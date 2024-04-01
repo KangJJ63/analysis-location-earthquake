@@ -1,0 +1,10 @@
+name: Korea 2000 / Unified CS
+ellps: grs80
+proj: tmerc
+lat_0: 38
+lon_0: 127.5
+k: 0.9996
+x_0: 1000000
+y_0: 2000000
+towgs84: 0,0,0,0,0,0,0
+no_defs: defined
